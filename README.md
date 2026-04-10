@@ -71,4 +71,4 @@ React + TypeScript + Tailwind + shadcn/ui front-end prototype for the PR OS prod
 
 📧 apurvadarsh3483@gmail.com  
 💼 [linkedin.com/in/apurv-adarsh](https://linkedin.com/in/apurv-adarsh)  
-🌐 [Portfolio](https://apurvadarsh.com) *(deploy link — update after Vercel setup)*
+🌐 [Portfolio](https://apurvadarsh.com)
