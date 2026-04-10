@@ -6,7 +6,7 @@ Leipzig to India. Currently building PR OS — an India-first PR workflow
 system for agencies.
 
 **What's here:**
-- 🤖 [AI_Projects](https://github.com/apurv912/AI_Projects) — RAG microbuild ladder: citations, reranking, eval scorecards, telemetry, safety guardrails
+- 🤖 DocuRAG(https://github.com/apurv912/DocuRAG) — RAG microbuild ladder: citations, reranking, eval scorecards, telemetry, safety guardrails
 - 📋 [comm-ops-os](https://github.com/apurv912/comm-ops-os) — Outreach workflow OS with interaction tracking, follow-up queue, templates
 - 🌸 [bloom-pr](https://github.com/apurv912/bloom-pr) — PR workflow front-end (React + TypeScript)
 
