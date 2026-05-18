@@ -2,7 +2,7 @@
 
 **Internal Tools · Ops Automation · GenAI Products**
 
-Ex-PM intern at a major global e-commerce company (Munich, Pan-EU retail team). Ex-engineer at DXC Technology (4 years, enterprise delivery). HHL MBA. Available immediately — India and Germany.
+Ex-PM intern at a Amazon (Munich, Pan-EU retail team). Ex-engineer at DXC Technology (4 years, enterprise delivery). HHL MBA. Available immediately — India and Germany.
 
 I build analytics systems, workflow OS tools, and GenAI-assisted products that ops teams actually adopt. I measure adoption, not just delivery.
 
