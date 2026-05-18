@@ -10,6 +10,30 @@ I build analytics systems, workflow OS tools, and GenAI-assisted products that o
 
 ## What's here
 
+### 🔍 [Job Search Automation](https://github.com/apurv912/job-search-automation)
+End-to-end automated job search pipeline built for high-volume, targeted outreach — scrapes listings, filters by role/location criteria, tracks application status, and surfaces daily digests.
+
+- Automated job board scraping and deduplication
+- Role + location filtering with configurable criteria
+- Application tracker with status pipeline
+- Daily digest output — zero manual triage
+
+> *Why this matters:* Built to solve a real ops bottleneck in job searching. Same pattern as enterprise workflow automation — observe the manual process, eliminate the repetitive layer, measure output.
+
+---
+
+### 🍔 [WhatsApp Swiggy Agent](https://github.com/apurv912/whatsapp-swiggy-agent)
+Conversational AI agent that lets you order food from Swiggy entirely over WhatsApp — no app switching, no UI friction.
+
+- WhatsApp as the interface (Twilio / WhatsApp Business API)
+- Natural language order placement and modification
+- Menu search, recommendations, and order tracking via chat
+- Built with Python + LLM function calling
+
+> *Why this matters:* Proves the pattern of embedding AI into channels users already live in — same principle as enterprise GenAI adoption: meet users where they are, reduce friction, measure completion rates.
+
+---
+
 ### 🤖 [DocuRAG — RAG Microbuild Ladder](https://github.com/apurv912/AI_Projects)
 PM-framed portfolio of production-grade AI builds, each shipped as a shippable artifact with acceptance criteria, eval notes, and proof docs.
 
@@ -59,7 +83,7 @@ React + TypeScript + Tailwind + shadcn/ui front-end prototype for the PR OS prod
 
 **PM work:** Product discovery, user interviews, PRDs, RICE prioritisation, KPI design, dashboard adoption, A/B testing, rollout planning
 
-**AI/GenAI:** RAG pipelines, prompt engineering, model evaluation, guardrails, telemetry, LangChain, Amazon Bedrock, n8n
+**AI/GenAI:** RAG pipelines, agentic workflow,prompt engineering, model evaluation, guardrails, telemetry, LangChain, Amazon Bedrock, n8n
 
 **Analytics:** SQL, funnel analysis, KPI trees, QuickSight, GA4, Mixpanel
 
